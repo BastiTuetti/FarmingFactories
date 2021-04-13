@@ -1,0 +1,9 @@
+name: FarmingFactories
+version: 1.0.0
+main: de.riskonia.farmingfactories.main.Main
+author: Bastizeit
+
+commands:
+  test:
+    description: Test Command
+    usage: /test
